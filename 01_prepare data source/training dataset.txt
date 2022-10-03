@@ -1,0 +1,8 @@
+Sentiment 140:
+url = "https://www.kaggle.com/kazanova/sentiment140"
+
+train, test id list
+File name:
+    - train_ids.txt
+    - test_ids.txt
+url = "https://drive.google.com/drive/folders/1lwCZzr9NYNUa2VMoKNed8f2taq2DU8nk?usp=sharing"
